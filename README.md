@@ -1,0 +1,2 @@
+# calculation-IMC
+Me aprofundando mais nos estudos, vim aqui compartilhar um projeto simples (cálculo do IMC), com HTML, CSS e javascript. Nesse projeto pude aprender e praticar muito o Document Object Model (DOM) , uma interface (API) usada no navegador, que representa o mesmo documento para que possa ser manipulado. Lembrando que a DOM é direcionado pelo event-driven, podendo reagir a qualquer evento relacionado à página. A organização foi essencial para realizar uma boa lógica e reestruturar corretamente os códigos no final para melhor visualização. 
